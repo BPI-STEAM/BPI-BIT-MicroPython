@@ -6,7 +6,7 @@
 ![](https://img.shields.io/github/license/BPI-STEAM/BPI-BIT-MicroPython.svg)
 ![](https://img.shields.io/badge/support-esp%20idf-red.svg)
 ![](https://img.shields.io/badge/support-smartconfig-FF00FF.svg)
-![](https://img.shields.io/badge/custom-firmware-0000FF.svg)
+![](https://img.shields.io/badge/custom-firmware-0AAAAF.svg)
 
 ## 烧写教程
 
