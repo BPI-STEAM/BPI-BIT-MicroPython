@@ -1,33 +1,21 @@
 
-# &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;BPI-BIT MicroPython 基础教程
+# &emsp;&emsp;&emsp;&emsp;&emsp;BPI-BIT MicroPython 固件发布主页
 
-![](https://img.shields.io/badge/open%20source-bananpi-brightgreen.svg)
-![](https://img.shields.io/badge/support-pycharm-red.svg)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
+![](https://img.shields.io/github/release/BPI-STEAM/BPI-BIT-MicroPython.svg)
+![](https://img.shields.io/github/license/BPI-STEAM/BPI-BIT-MicroPython.svg)
+![](https://img.shields.io/badge/support-esp%20idf-red.svg)
 ![](https://img.shields.io/badge/support-smartconfig-FF00FF.svg)
 ![](https://img.shields.io/badge/custom-firmware-0000FF.svg)
 
-## MicroPython 是什么？
+## 烧写教程
 
-## 认识硬件
+[刷入 MicroPython 固件](http://bpi.pub/zh_CN/latest/bpi-mpy/flash_mpy.html)
 
-### 了解硬件情况
+## CHANGELOG
 
-[BPI-BIT-Hardware](https://github.com/BPI-STEAM/BPI-BIT-Hardware)
+### 20190528 第一个版本
 
-### 如何安装驱动
-
-[Install Driver](https://github.com/BPI-STEAM/BPI-BIT-Hardware/blob/master/driver.md)
-
-## 直接上手
-
-### 获取工具
-
-### 运行代码
-
-## 使用无线
-
-### 配网模式
-
-### 下载代码
-
-## 进阶应用
+- 网络层各种加持，mdns、smartconfig、XSocket、Mqtt 等等内置。
+- 兼任 microbit 接口函数。
+- 内置了一些常用模块代码。
