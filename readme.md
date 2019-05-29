@@ -15,6 +15,7 @@
 ## 基础教程
 
 [Python 菜鸡教程](https://www.runoob.com/python3/python3-tutorial.html)
+
 [BPI-BIT 基础教程](http://bpi.pub/zh_CN/latest/bpi-dev/mpy-tutorials.html)
 
 ## 固件源码
