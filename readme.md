@@ -12,6 +12,10 @@
 
 [刷入 MicroPython 固件](http://bpi.pub/zh_CN/latest/bpi-mpy/flash_mpy.html)
 
+## 固件源码
+
+[BPI-STEAM/micropython](https://github.com/BPI-STEAM/micropython)
+
 ## CHANGELOG
 
 ### 20190528 第一个版本
