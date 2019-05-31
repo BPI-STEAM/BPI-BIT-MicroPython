@@ -18,6 +18,24 @@
 
 [BPI-BIT 基础教程](http://bpi.pub/zh_CN/latest/bpi-dev/mpy-tutorials.html)
 
+## 相关软件
+
+Smartconfig 配网软件：
+
+- [EspTouch](https://github.com/EspressifApp/EspRelease/tree/master/EspTouch)
+
+Shell 超级终端套件：
+
+- [MobaxTerm](https://mobaxterm.mobatek.net/download.html)
+
+安卓蓝牙调试工具：
+
+- []()
+
+intellij-MicroPython 插件
+
+- []()
+
 ## 固件源码
 
 [BPI-STEAM/micropython](https://github.com/BPI-STEAM/micropython)
