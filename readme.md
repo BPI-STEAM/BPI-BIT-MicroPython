@@ -16,33 +16,17 @@
 
 [Python 菜鸡教程](https://www.runoob.com/python3/python3-tutorial.html)
 
-[BPI-BIT 基础教程](https://bpi-steam-docs.readthedocs.io/zh_CN/latest/bpi-dev/mpy-tutorials.html)
+[BPI-BIT 基础文档](https://bpi-steam-docs.readthedocs.io/zh_CN/latest/bpi-dev/mpy-tutorials.html)
 
 ## 相关软件
 
-软件正式发布中心
-
-- [发布中心](http://doc.bpi.org.cn/zh_CN/latest/bpi-mpy/release.html)
-
-Pycharm Mpfshell 插件
-
-- [intellij-MicroPython](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/releases/tag/pycharm)
-
-VsCode Mpfshell 插件
-
-- [vscoe-mpfshell](https://github.com/junhuanchen/vscode-mpfshell)
-
-Smartconfig 配网软件：
-
-- [EspTouch](https://github.com/EspressifApp/EspRelease/tree/master/EspTouch)
-
-Shell 超级终端套件：
-
-- [MobaxTerm](https://mobaxterm.mobatek.net/download.html)
-
-安卓蓝牙调试工具：
-
-- [BleTool](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/releases/tag/BleTool)
+| [正式发布中心](http://doc.bpi.org.cn/zh_CN/latest/bpi-mpy/release.html) | 正式发布 Release 版本软件的地方。                            |
+| :----------------------------------------------------------: | ------------------------------------------------------------ |
+| [intellij-MicroPython](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/releases/tag/pycharm) | 用于 Pycharm Mpfshell 的插件，还未并入官方主仓。             |
+| [vscoe-mpfshell](https://github.com/junhuanchen/vscode-mpfshell) | 用于 VsCode Mpfshell 的插件，可在 VSCODE 中直接得到。        |
+| [EspTouch](https://github.com/EspressifApp/EspRelease/tree/master/EspTouch) | 用于 esp32 的 Smartconfig 辅助 WIFI 配网 APK 软件            |
+|   [MobaxTerm](https://mobaxterm.mobatek.net/download.html)   | 免费绿色版的超级终端，支持大量远端连接，常用 Serial 和 FTP。 |
+| [BleTool](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/releases/tag/BleTool) | 提供 MicroPython 蓝牙示例代码 和 安卓主机蓝牙调试工具。      |
 
 ## 固件源码
 
