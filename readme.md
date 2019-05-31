@@ -30,11 +30,11 @@ Shell 超级终端套件：
 
 安卓蓝牙调试工具：
 
-- []()
+- [BleTool](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/releases/tag/BleTool)
 
 intellij-MicroPython 插件
 
-- []()
+- [intellij-mpfshell](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/releases/tag/pycharm)
 
 ## 固件源码
 
