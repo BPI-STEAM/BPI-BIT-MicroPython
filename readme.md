@@ -10,15 +10,27 @@
 
 ## 烧写教程
 
-[刷入 MicroPython 固件](http://bpi.pub/zh_CN/latest/bpi-mpy/flash_mpy.html)
+[刷入 MicroPython 固件](https://bpi-steam-docs.readthedocs.io/zh_CN/latest/bpi-mpy/flash_mpy.html)
 
 ## 基础教程
 
 [Python 菜鸡教程](https://www.runoob.com/python3/python3-tutorial.html)
 
-[BPI-BIT 基础教程](http://bpi.pub/zh_CN/latest/bpi-dev/mpy-tutorials.html)
+[BPI-BIT 基础教程](https://bpi-steam-docs.readthedocs.io/zh_CN/latest/bpi-dev/mpy-tutorials.html)
 
 ## 相关软件
+
+软件正式发布中心
+
+- [发布中心](http://doc.bpi.org.cn/zh_CN/latest/bpi-mpy/release.html)
+
+Pycharm Mpfshell 插件
+
+- [intellij-MicroPython](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/releases/tag/pycharm)
+
+VsCode Mpfshell 插件
+
+- [vscoe-mpfshell](https://github.com/junhuanchen/vscode-mpfshell)
 
 Smartconfig 配网软件：
 
@@ -31,10 +43,6 @@ Shell 超级终端套件：
 安卓蓝牙调试工具：
 
 - [BleTool](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/releases/tag/BleTool)
-
-intellij-MicroPython 插件
-
-- [intellij-mpfshell](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/releases/tag/pycharm)
 
 ## 固件源码
 
