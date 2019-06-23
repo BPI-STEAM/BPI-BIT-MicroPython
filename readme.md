@@ -10,17 +10,17 @@
 
 ## 烧写教程
 
-[刷入 MicroPython 固件](https://bpi-steam-docs.readthedocs.io/zh_CN/latest/bpi-mpy/flash_mpy.html)
+[刷入 MicroPython 固件](https://bpi-steam-docs.readthedocs.io/zh_CN/latest/bpi-mpy/tutorials/flash_mpy.html)
 
 ## 基础教程
 
 [Python 菜鸡教程](https://www.runoob.com/python3/python3-tutorial.html)
 
-[BPI-BIT 基础文档](https://bpi-steam-docs.readthedocs.io/zh_CN/latest/bpi-dev/mpy-tutorials.html)
+[BPI-BIT 基础文档](https://bpi-steam-docs.readthedocs.io/zh_CN/latest/bpi-mpy/tutorials/index.html)
 
 ## 相关软件
 
-| [正式发布中心](http://doc.bpi.org.cn/zh_CN/latest/bpi-mpy/release.html) | 正式发布 Release 版本软件的地方。                            |
+| [正式发布中心](http://bpi-steam-docs.readthedocs.io/zh_CN/latest/bpi-mpy/release.html) | 正式发布 Release 版本软件的地方。                            |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
 | [intellij-MicroPython](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/releases/tag/pycharm) | 用于 Pycharm Mpfshell 的插件，还未并入官方主仓。             |
 | [vscoe-mpfshell](https://github.com/junhuanchen/vscode-mpfshell) | 用于 VsCode Mpfshell 的插件，可在 VSCODE 中直接得到。        |
