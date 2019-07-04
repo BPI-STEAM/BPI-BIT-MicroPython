@@ -43,8 +43,7 @@
 
 应用于 VSCode 的 Mpfshell 插件。
 
-- [使用教程](https://marketplace.visualstudio.com/items?itemName=junhuanchen.mpfshell)
-& [项目主页](https://github.com/junhuanchen/vscode-mpfshell)
+- [使用教程](https://marketplace.visualstudio.com/items?itemName=junhuanchen.mpfshell) & [项目主页](https://github.com/junhuanchen/vscode-mpfshell)
 - [历史版本 & 更新日志](https://marketplace.visualstudio.com/items/junhuanchen.mpfshell/changelog)
 
 ![image](images/github-vscode-mpfshell.png)
@@ -53,17 +52,14 @@
 
 应用于 Pycharm 专业 IDE 的 Mpfshell 插件。
 
-  - [使用教程](https://github.com/junhuanchen/intellij-micropython) &
-    [项目主页](https://github.com/junhuanchen/intellij-micropython)
-  - [历史版本 &
-    更新日志](https://github.com/junhuanchen/intellij-micropython/releases)
+- [使用教程](https://github.com/junhuanchen/intellij-micropython) & [项目主页](https://github.com/junhuanchen/intellij-micropython)
+- [历史版本 & 更新日志](https://github.com/junhuanchen/intellij-micropython/releases)
 
 ![image](images/github-intellij-mpfshell.png)
 
 ## scratch3-adapter
 
-  - [使用教程](http://adapter.codelab.club/user_guide/usage/) &
-    [项目主页](https://github.com/Scratch3Lab/codelab_adapter_extensions)
-  - [历史版本 & 更新日志](http://adapter.codelab.club/changelog/)
+- [使用教程](http://adapter.codelab.club/user_guide/usage/) & [项目主页](https://github.com/Scratch3Lab/codelab_adapter_extensions)
+- [历史版本 & 更新日志](http://adapter.codelab.club/changelog/)
 
 ![image](images/github-adapter-scratch.png)
