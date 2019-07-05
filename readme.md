@@ -34,6 +34,18 @@
 
 ## CHANGELOG
 
+### 20190623 添加软串口
+
+- 本次更新没有礼品。
+- 添加了软串口模块，代码在 [serial.py](https://github.com/BPI-STEAM/MicroPython-Samples/blob/master/02.inputs/serial.py) 。
+- 你可以不再担心串口数量了，但注意，只有 9600 最稳定，57600 会抖动，115200 待修复（IDF 下正常）。
+
+### 20190621 同步主仓更新
+
+- 本次更新有礼品。
+- 除了上次的 machine.I2S、bluetooth、smartconfig等功能，这次还加了 machine.SDcard 。
+- 修复了一些不重要的性能问题，Python 的执行速度有提升。
+
 ### 20190528 第一个版本
 
 - 网络层各种加持，mdns、smartconfig、XSocket、Mqtt 等等内置。
