@@ -23,6 +23,7 @@
 | [正式发布中心](release.md) | 正式发布 Release 版本软件的地方。                            |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
 | [intellij-MicroPython](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/releases/tag/pycharm) | 用于 Pycharm Mpfshell 的插件，还未并入官方主仓。             |
+| [firmware release](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/releases) | 和 MicroPython 有关的固件或工具会在此更新存放             |
 | [vscoe-mpfshell](https://github.com/junhuanchen/vscode-mpfshell) | 用于 VsCode Mpfshell 的插件，可在 VSCODE 中直接得到。        |
 | [EspTouch](https://github.com/EspressifApp/EspRelease/tree/master/EspTouch) | 用于 esp32 的 Smartconfig 辅助 WIFI 配网 APK 软件            |
 |   [MobaxTerm](https://mobaxterm.mobatek.net/download.html)   | 免费绿色版的超级终端，支持大量远端连接，常用 Serial 和 FTP。 |
