@@ -32,7 +32,7 @@
 
 [BPI-STEAM/micropython](https://github.com/BPI-STEAM/micropython)
 
-## CHANGELOG
+## [CHANGELOG](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/releases)
 
 ### 20190623 添加软串口
 
