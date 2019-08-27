@@ -10,7 +10,7 @@
 
 ## 烧写教程
 
-[刷入 MicroPython 固件](https://bpi-steam-docs.readthedocs.io/zh_CN/latest/bpi-mpy/tutorials/flash_mpy.html)
+[刷入 MicroPython 固件](https://bpi-steam-docs.readthedocs.io/zh_CN/latest/micropython/tutorials/flash_mpy.html)
 
 ## 基础教程
 
