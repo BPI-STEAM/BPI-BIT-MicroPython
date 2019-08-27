@@ -1,5 +1,5 @@
 
-# &emsp;&emsp;&emsp;&emsp;&emsp;BPI-BIT MicroPython 固件发布主页
+# &emsp;&emsp;&emsp;&emsp;&emsp;BPI-BIT MicroPython 发布页
 
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 ![](https://img.shields.io/github/release/BPI-STEAM/BPI-BIT-MicroPython.svg)
@@ -12,11 +12,11 @@
 
 [刷入 MicroPython 固件](https://bpi-steam-docs.readthedocs.io/zh_CN/latest/micropython/tutorials/flash_mpy.html)
 
-## 基础教程
+## 相关教程
 
-[Python 菜鸡教程](https://www.runoob.com/python3/python3-tutorial.html)
+[Python3 菜鸡教程](https://www.runoob.com/python3/python3-tutorial.html)
 
-[BPI-BIT 基础文档](https://bpi-steam-docs.readthedocs.io/zh_CN/latest/bpi-mpy/tutorials/index.html)
+[BPI-BIT 基础文档](https://bpi-steam-docs.readthedocs.io/zh_CN/latest/micropython/tutorials/index.html)
 
 ## 相关软件
 
@@ -33,7 +33,7 @@
 
 [BPI-STEAM/micropython](https://github.com/BPI-STEAM/micropython)
 
-## [CHANGELOG](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/releases)
+## [更新日志](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/releases)
 
 ### 20190623 添加软串口
 
