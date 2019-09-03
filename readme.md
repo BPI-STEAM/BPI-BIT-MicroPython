@@ -18,6 +18,10 @@
 
 [BPI-BIT 基础文档](https://bpi-steam-docs.readthedocs.io/zh_CN/latest/micropython/tutorials/index.html)
 
+## 提供 SDK 示例
+
+[MicroPython-Samples](https://github.com/BPI-STEAM/MicroPython-Samples)
+
 ## 相关软件
 
 | [正式发布中心](release.md) | 正式发布 Release 版本软件的地方。                            |
