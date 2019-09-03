@@ -24,7 +24,9 @@
 
 ## 相关软件
 
-| [正式发布中心](release.md) | 正式发布 Release 版本软件的地方。                            |
+[点此查看软件正式发布页，获取软件吧](release.md)
+
+| 其他软件 | 软件备注                            |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
 | [intellij-MicroPython](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/releases/tag/pycharm) | 用于 Pycharm Mpfshell 的插件，还未并入官方主仓。             |
 | [firmware release](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/releases) | 和 MicroPython 有关的固件或工具会在此更新存放             |
